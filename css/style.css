@@ -1,5 +1,5 @@
 body{
-    background-color: #8caad5;
+    background-color: #0f4289;
     color: #ffffff;
     font-size: 20px;
 }
@@ -12,23 +12,23 @@ h1{
 h2{
     font-size: 25px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color: rgb(10, 10, 10);
+    color: rgb(166, 244, 20);
 }
 h3{
     font-size: 22px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color:palevioletred;
+    color:rgb(166, 244, 20);;
 }
 p{
     line-height: 2;
 }
 img{
-    border: 5px solid palevioletred;
+    border: 5px solid rgb(166, 244, 20);;
     padding: 10px;
     margin: 20px;
     border-top-right-radius: 30px;
 }
-li{
+ul{
     display: inline-block;
     margin-left: 50px;
 }
